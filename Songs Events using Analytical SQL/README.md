@@ -1,6 +1,6 @@
-#Data Analysis Project
+# Data Analysis Project
 
-##Introduction
+## Introduction
 This project contains various SQL queries and scripts for analyzing song play events. The database schema and queries are designed to extract meaningful insights from the song play data.
 
 ## Features
@@ -23,7 +23,7 @@ This project contains various SQL queries and scripts for analyzing song play ev
 6.**Songs Played in 2-Hour Interval**:
    - Calculate the count of songs that the user played during a 2-hour interval (1 hour before and 1 hour after).
 
-##Database Schema
+## Database Schema
 The database schema for the `Songs_Events` table is as follows:
 
 ```sql
