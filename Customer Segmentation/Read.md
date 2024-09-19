@@ -1,5 +1,5 @@
 # RFM Analysis
-## RFM Analysis is a concept used for Customer Segmentation, especially in the marketing domain for understanding and segmenting customers based on their buying behaviour.
+RFM Analysis is a concept used for Customer Segmentation, especially in the marketing domain for understanding and segmenting customers based on their buying behaviour.
 
 business can assess customers’:
 recency (the date they made their last purchase)
