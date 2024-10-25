@@ -18,7 +18,7 @@ This project provides a comparative analysis of content on *Netflix* and *Disney
 ## Analysis
 The project addresses questions about content availability, genre diversity, and user demographics. Key insights include:
 - *Country-wise content distribution* and *genre diversity*
-- *Top actors, directors, and **genre-based preferences*
+- *Top actors, directors, and genre-based preferences*
 - *Age group distribution* across content and its alignment with target audiences
 - *Year-over-year content growth* and variations between TV shows and movies on each platform
 
